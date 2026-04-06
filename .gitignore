@@ -43,3 +43,7 @@ meta_memory/*
 *.db
 memories/*
 .reme/*
+benchmark/spider/exp_result/
+benchmark/spider/library/
+benchmark/spider/spider_data/
+benchmark/spider/__pycache__/
